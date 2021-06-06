@@ -1,7 +1,15 @@
-### Hello there, Welcome to my github profile
+## Hi Git Cats
+### Welcome to my github profile
 
 #### I am Ruthresh Kumar, working as a Software engineer at MMM
 ![Image of Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
+
+#### 🌱 I’m currently learning ...
+  - [ ] elastic search
+  - [ ] flutter
+  - [ ] python
+
+#### 👯 I’m looking to collaborate on any software project I find interesting.
 
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
