@@ -3,12 +3,14 @@
 #### I am Ruthresh Kumar, working as a Software engineer at MMM
 ![Image of Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
 
+#### A paragraph explaining my current focus.
+
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
+- [ ] m4meat (m4cash)
+- [ ] Project A
 - [ ] python notes
 - [ ] flutter mini projects
-- [ ] Project A
-
 
 <!--
 **ruthresh1/ruthresh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
