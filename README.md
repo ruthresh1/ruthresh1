@@ -5,6 +5,11 @@
 ![Image of Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
 
 #### 🌱 I’m currently learning ...
+  - [ ] django
+  - [ ] python
+  - [ ] elastic search
+
+### backlog
   - [ ] elastic search
   - [ ] flutter
   - [ ] python
@@ -13,6 +18,7 @@
 
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
+- [ ] django
 - [ ] python notes
 - [ ] flutter mini projects
 - [ ] Project A
