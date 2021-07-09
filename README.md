@@ -8,6 +8,11 @@
 
 
 #### 🌱 I’m currently learning ...
+  - [ ] django
+  - [ ] python
+  - [ ] elastic search
+
+### backlog
   - [ ] elastic search
   - [ ] flutter
   - [ ] python
@@ -16,6 +21,7 @@
 
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
+- [ ] django
 - [ ] m4meat (m4cash)
 - [ ] Project A
 - [ ] python notes
