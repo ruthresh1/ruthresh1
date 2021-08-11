@@ -1,31 +1,40 @@
 ## Hi Git Cats
 ### Welcome to my github profile
 
+[website](https://ruthresh.in)
+
 #### I am Ruthresh Kumar, working as a Software engineer at MMM
 ![Image of Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
 
-#### A paragraph explaining my current focus.
-
+#### Currently taking a dig at functional programming using Haskell
 
 #### 🌱 I’m currently learning ...
-  - [ ] django
+  - [ ] haskell
+  - [ ] programming questions
   - [ ] python
-  - [ ] elastic search
 
 ### backlog
   - [ ] elastic search
+  - [ ] mongo db
   - [ ] flutter
-  - [ ] python
+  - [ ] django
 
 #### 👯 I’m looking to collaborate on any software project I find interesting.
 
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
-- [ ] django
+- [ ] haskell
 - [ ] m4meat (m4cash)
 - [ ] Project A
 - [ ] python notes
 - [ ] flutter mini projects
+
+### Others
+👯 I’m looking to collaborate on
+-   anything interesting enough
+
+📫 How to reach me: 
+-   mail: ruthreshss+git@gmail.com
 
 <!--
 **ruthresh1/ruthresh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
