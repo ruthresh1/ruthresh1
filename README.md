@@ -4,7 +4,7 @@
 [website](https://ruthresh.in)
 
 #### I am Ruthresh Kumar, working as a Software engineer at MMM
-![Image of Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
+<img src="https://octodex.github.com/images/manufacturetocat.png" width="500" height="500">
 
 #### Currently taking a dig at functional programming using Haskell
 
@@ -24,6 +24,8 @@
 #### Goals for 2021
 - [ ] dsaNotes - commits every week
 - [ ] haskell
+- [ ] elastic search
+- [ ] mongo db
 - [ ] m4meat (m4cash)
 - [ ] Project A
 - [ ] python notes
