@@ -10,12 +10,12 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 
 #### 🌱 I’m currently learning ...
   - [ ] haskell
-  - [ ] django
+  - [ ] elastic search
   - [ ] coding interview
 
 ### backlog
-  - [ ] elastic search
   - [ ] mongo db
+  - [ ] housewarming invitation
   - [ ] flutter
   - [ ] django
 
