@@ -6,15 +6,15 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 <img src="https://octodex.github.com/images/manufacturetocat.png" width="500" height="500">
 </details>
 
-#### Currently taking a dig at functional programming using Haskell
+#### Currently learning elastic search in depth
 
 #### 🌱 I’m currently learning ...
-  - [ ] haskell
   - [ ] elastic search
   - [ ] coding interview
 
 ### backlog
   - [ ] mongo db
+  - [ ] haskell
   - [ ] housewarming invitation
   - [ ] flutter
   - [ ] django
