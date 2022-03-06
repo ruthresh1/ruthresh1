@@ -14,11 +14,14 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 
 ### backlog
   - [ ] mongo db
-  - [ ] haskell
   - [ ] housewarming invitation
   - [ ] flutter
-  - [ ] django
   - [ ] elastic search
+
+#### Goals for 2022
+- [ ] elastic search
+- [ ] flutter
+- [ ] MAANG job
 
 #### Goals for 2021
 - [x] dsaNotes - commits every week
@@ -29,6 +32,10 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 - [ ] Project A
 - [ ] python notes
 - [ ] flutter mini projects
+
+#### Maybe or sometime later
+- [ ] haskell
+- [ ] django
 
 ### Others
 👯 I’m looking to collaborate on
