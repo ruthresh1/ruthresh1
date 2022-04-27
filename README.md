@@ -9,18 +9,19 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 #### Currently learning elastic search in depth
 
 #### 🌱 I’m currently learning ...
-  - [ ] little html (the two pages) 
+  - [ ] little html (frontend - the two pages) 
   - [ ] standard coding interview questions
 
 ### backlog
+  - [ ] online resume 
   - [ ] mongo db
   - [ ] housewarming invitation
   - [ ] flutter
   - [ ] elastic search
 
 #### Goals for 2022
-- [ ] elastic search
 - [ ] MAANG job
+- [ ] elastic search
 - [ ] flutter
 
 #### Goals for 2021
