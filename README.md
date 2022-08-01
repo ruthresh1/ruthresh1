@@ -10,19 +10,19 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 
 #### 🌱 I’m currently learning ...
   - [ ] html with bootstrap for website
-  - [ ] Coding interview questions (IK)
+  - [ ] Coding interview questions (CN)
 
 ### backlog
+  - [ ] housewarming invitation
   - [ ] online resume 
   - [ ] mongo db
-  - [ ] housewarming invitation
   - [ ] flutter
   - [ ] elastic search
 
 #### Goals for 2022
-- [ ] MAANG job preparation
-- [ ] elastic search
+- [ ] Tier 1 preparation
 - [ ] flutter
+- [ ] elastic search
 
 #### Goals for 2021
 - [x] dsaNotes - commits every week
