@@ -6,10 +6,10 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 <img src="https://octodex.github.com/images/manufacturetocat.png" width="500" height="500">
 </details>
 
-#### Currently learning elastic search in depth
+#### Currently learning kafka in depth
 
 #### 🌱 I’m currently learning ...
-  - [ ] interview preparation
+  - [ ] offer evaluation, future planning
   - [ ] Coding interview questions (CN)
 
 ### backlog
@@ -17,12 +17,12 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
   - [ ] mongo db
   - [ ] flutter
   - [ ] elastic search
-  - [ ] housewarming invitation
 
 #### Goals for 2022
 - [ ] Tier 1 preparation
 - [ ] portfolio website
 - [ ] flutter
+- [x] housewarming invitation
 
 #### Goals for 2021
 - [x] dsaNotes - commits every week
