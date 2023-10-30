@@ -2,29 +2,33 @@
 ### Welcome to my github profile [my website](https://ruthresh.in)
 
 <details>
-I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
+I am Ruthresh Kumar, working as a Software engineer at Quotient Tecchnology, Bangalore
 <img src="https://octodex.github.com/images/manufacturetocat.png" width="500" height="500">
 </details>
 
 #### Currently learning kafka in depth
 
 #### 🌱 I’m currently learning ...
-  - [ ] offer evaluation, future planning
-  - [ ] Coding interview questions (CN)
+  - [ ] user interface
 
-### backlog
-  - [ ] online resume 
-  - [ ] mongo db
-  - [ ] flutter
-  - [ ] elastic search
+
+#### Goals for 2024
+- [ ] Make a open source contribution
+
+ 
+#### Goals for 2023
+- [ ] Concentrate on work
+
 
 #### Goals for 2022
-- [ ] Tier 1 preparation
+<details>
 - [ ] portfolio website
 - [ ] flutter
 - [x] housewarming invitation
+</details>
 
 #### Goals for 2021
+<details>
 - [x] dsaNotes - commits every week
 - [ ] haskell
 - [ ] elastic search
@@ -33,6 +37,13 @@ I am Ruthresh Kumar, working as a Software engineer at MMM, Bangalore
 - [ ] Project A
 - [ ] python notes
 - [ ] flutter mini projects
+</details>
+
+### backlog
+  - [ ] online resume 
+  - [ ] mongo db
+  - [ ] flutter
+  - [ ] elastic search
 
 #### Maybe or sometime later
 - [ ] haskell
